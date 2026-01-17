@@ -38,3 +38,9 @@ scholarship-project/
  ┃ ┗ main.jsx               # Application entry point
  ┣ README.md                # Project documentation
  ┗ package.json             # Project dependencies
+
+
+## Clone the repository
+   ```bash
+   git clone [https://github.com/Ayooluuwa70/scholarship-portal.git](https://github.com/Ayooluwa70/scholarship-portal.git)
+   cd scholarship-portal
