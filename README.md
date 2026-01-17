@@ -39,6 +39,7 @@ scholarship-project/
  ┣ README.md                # Project documentation
  ┗ package.json             # Project dependencies
 
+```
 
 ## Clone the repository
    ```bash
