@@ -1,10 +1,10 @@
-# 🎓 Global Scholarship Portal
+# Global Scholarship Portal
 
 A professional, high-performance web application designed to connect students with global funding opportunities. This project features a modern UI, real-time search functionality, and a seamless multi-page experience.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Real-Time Search:** Instantly filter scholarships by name, country, or category.
 * **Responsive UI:** Optimized for a professional look on mobile, tablet, and desktop.
@@ -13,7 +13,7 @@ A professional, high-performance web application designed to connect students wi
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 * **React.js (Vite):** Frontend framework for speed and scalability.
 * **React Router Dom:** Handles all site navigation and dynamic links.
@@ -21,7 +21,7 @@ A professional, high-performance web application designed to connect students wi
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 scholarship-project/
@@ -38,4 +38,3 @@ scholarship-project/
  ┃ ┗ main.jsx               # Application entry point
  ┣ README.md                # Project documentation
  ┗ package.json             # Project dependencies
-   git clone [https://github.com/username/scholarship-portal.git](https://github.com/Ayooluwa70/scholarship-portal.git)
